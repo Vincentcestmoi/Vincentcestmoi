@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-I'm Micky from France, and I code some games or projects with my friends.
-My project are public, so if you want, go check.
+I'm Vincent from France, and I mainly code little games or projects with my friends.
+Most of them arepublic, so feel free to see or play it.
 
 <p align="center">
   <a>
