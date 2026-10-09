@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I'm Vincent from France, and I mainly code little games or projects with my friends.
-Most of them are public, so feel free to see or play it.
+Most of them are public, so feel free to see or play them.
 
 <p align="center">
   <a>
